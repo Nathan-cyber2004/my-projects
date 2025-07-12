@@ -88,3 +88,11 @@ def game_logic():
   else:
     print("Sorry, the computer has won")
     print("You won " + str(player_score) + " out of " + str(num_rounds))
+  
+  while True:
+    user_quit = input("Would you like to play again? (Type 'y' or 'n'): ").lower()
+    if user_quit == "n":
+      print("Thanks for playing!")
+      break
+    else:
+      game_logic()
