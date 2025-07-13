@@ -5,7 +5,7 @@ A simple command-line game of Rock, Paper, Scissors built with Python.
 This beginner project has:
 - Basic user input and output
 - Conditional logic
-- Random number generation
+- Random generation
 - Functions
 - Lists
 - Import statements
