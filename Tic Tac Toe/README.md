@@ -24,3 +24,16 @@ A beginner-friendly Python Tic Tac Toe game playable in the terminal. Play again
 - Enter your moves by selecting row and column numbers (1-3)
 - Type `Q` at any prompt to quit the game
 - After each game, choose to play again or exit
+
+# Features
+
+This beginner project has:
+- Basic user input and output
+- Conditional logic
+- Random generation
+- Functions
+- Recursion
+- Nested Lists
+- Import statements
+- Error Handling
+- Name-Main idiom
