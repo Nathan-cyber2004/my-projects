@@ -1,7 +1,8 @@
-# Beginner Projects
+# Projects
 
-Welcome to my collection of beginner-friendly coding projects!  
-This repository includes small projects built in various languages as I explore different areas of computer science, from automation and AI to game development and robotics.
+Welcome to my collection of coding projects
+This repository includes projects built in various languages as I learn different areas of computer science, from automation and AI to game development and robotics.
+Some projects are more for beginners while others may be more intermediate or advanced
 
 ---
 
@@ -16,7 +17,7 @@ This repository serves two main purposes:
 
 # What's Inside
 
-Each folder in this repo contains a self-contained beginner project with its own README (coming soon!). Projects may include:
+Each folder in this repo contains a self-contained project with its own README (coming soon!). Projects may include:
 
 - Command-line tools (e.g. To-Do List, Reminder Emailer)
 - Simple games (e.g. Snake, Memory Match)
