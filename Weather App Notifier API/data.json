@@ -1,0 +1,46 @@
+{
+    "coord": {
+        "lon": 0,
+        "lat": 0
+    },
+    "weather": [
+        {
+            "id": 802,
+            "main": "Clouds",
+            "description": "scattered clouds",
+            "icon": "03d"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 88.5,
+        "feels_like": 98.26,
+        "temp_min": 84.49,
+        "temp_max": 89.85,
+        "pressure": 1016,
+        "humidity": 64,
+        "sea_level": 1016,
+        "grnd_level": 990
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 4.74,
+        "deg": 120,
+        "gust": 5.01
+    },
+    "clouds": {
+        "all": 45
+    },
+    "dt": 1752966578,
+    "sys": {
+        "type": 2,
+        "id": 1234567,
+        "country": "Sample Country",
+        "sunrise": 1752920490,
+        "sunset": 1752971747
+    },
+    "timezone": -14400,
+    "id": 9999999,
+    "name": "Sample City",
+    "cod": 200
+}
