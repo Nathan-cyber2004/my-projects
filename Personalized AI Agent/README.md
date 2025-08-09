@@ -19,6 +19,7 @@ This project is a versatile **AI Agent** built using LangChain and OpenAI’s AP
 - **Weather Tool:** Get current weather data by location.
 - **Task Manager Tool:** Add, remove, and view tasks stored in a file.
 - **Messaging Tool:** Send emails or SMS messages using integrated tools.
+- **News Tool:** Scrapes a website for the news (For educational use, non-commercial)
 - **Extensible:** Easily add new tools or functionalities.
 
 ---
