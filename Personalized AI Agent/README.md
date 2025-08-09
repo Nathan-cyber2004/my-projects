@@ -43,16 +43,16 @@ This project is a versatile **AI Agent** built using LangChain and OpenAI’s AP
    
 2. Create a virtual environment
 
-python -m venv .venv
-source .venv/bin/activate   # macOS/Linux
-.venv\Scripts\activate      # Windows
+- python -m venv .venv
+- .venv/bin/activate   # macOS/Linux
+- .venv\Scripts\activate      # Windows
 
 3. Install dependencies (I used uv for this project)
-pip install uv -> To install uv
-uv add dependency -> To install dependencies using uv
+- pip install uv -> To install uv
+- uv add dependency -> To install dependencies using uv
 
 4. Add API Keys to a .env file
-OPENAI_API_KEY=your_openai_api_key
-WEATHER_API_KEY=your_weather_api_key
-EMAIL_USERNAME=your_email@example.com
-EMAIL_PASSWORD=your_email_password
+- OPENAI_API_KEY=your_openai_api_key
+- WEATHER_API_KEY=your_weather_api_key
+- EMAIL_USERNAME=your_email@example.com
+- EMAIL_PASSWORD=your_email_password
