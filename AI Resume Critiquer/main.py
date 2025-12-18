@@ -7,7 +7,7 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-# ------------------ UI ------------------
+# ui code
 
 st.set_page_config(
     page_title="AI Resume Critiquer",
