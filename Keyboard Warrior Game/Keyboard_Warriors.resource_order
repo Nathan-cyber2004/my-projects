@@ -1,0 +1,8 @@
+{
+  "FolderOrderSettings":[],
+  "ResourceOrderSettings":[
+    {"name":"spr_enemy_red","order":3,"path":"sprites/spr_enemy_red/spr_enemy_red.yy",},
+    {"name":"spr_new_background","order":1,"path":"sprites/spr_new_background/spr_new_background.yy",},
+    {"name":"spr_new_keyboard","order":4,"path":"sprites/spr_new_keyboard/spr_new_keyboard.yy",},
+  ],
+}
