@@ -1,39 +1,75 @@
-# Projects
+# Brain Blitz Quiz Game
 
-Welcome to my collection of coding projects
-This repository includes projects built in various languages as I learn different areas of computer science, from automation and AI to game development and robotics.
-Some projects are more for beginners while others may be more intermediate or advanced
+Brain Blitz is a Python-based trivia quiz game with a graphical user interface. Players can choose from multiple knowledge categories and answer multiple-choice questions in a lightweight desktop app.
 
----
+## Features
 
-# Why I Built This
+- Category-based quiz play
+- Multiple-choice questions with instant feedback
+- GUI built with `tkinter`
+- Question data loaded from a local JSON file
+- Includes categories like Geography, History, Science, Literature, Pop Culture, Nature, Space, Riddles, and Fun Facts
 
-This repository serves two main purposes:
+## Project Structure
 
-- Exploration: To try out different fields in computer science and discover what I have the most fun with.
-- Practice: To learn how to use Git, GitHub, and version control effectively by sharing and maintaining my own code online.
+- `main.py` - Application entry point that launches the GUI
+- `ui.py` - Graphical user interface and quiz interaction logic
+- `game_logic.py` - Question loading and answer selection logic
+- `get_questions.py` - Category-specific helper functions for selecting and removing questions
+- `create_questions.py` - Web scraping helper script to extract question data from a trivia site
+- `stored_questions.json` - Local question database used by the game
+- `quiz_game_icon.png`, `OIP.png` - Image assets used by the interface
 
----
+## Requirements
 
-# What's Inside
+- Python 3.8+
+- `tkinter` (usually included with Python)
+- `Pillow` for image support
 
-Each folder in this repo contains a self-contained project with its own README (coming soon!). Projects may include:
+Optional (only if you want to use `create_questions.py`):
+- `selenium`
+- Microsoft Edge WebDriver (`msedgedriver.exe`)
 
-- Command-line tools (e.g. To-Do List, Reminder Emailer)
-- Simple games (e.g. Snake, Memory Match)
-- Arduino robotics experiments
-- Basic AI or automation tools
+## Installation
 
----
+1. Install Python 3.8 or newer.
+2. Install dependencies:
 
-# About Me
+```bash
+pip install pillow
+```
 
-I’m Nathan Pereira, a Computer Science major with a concentration in AI, Robotics, and Game Development at UNCC. I'm building this portfolio to grow my skills, prepare for internships, and have fun experimenting with code.
+If you plan to run the question scraper:
 
----
+```bash
+pip install selenium
+```
 
-# Future Plans
+## Running the Quiz Game
 
-- Add new beginner projects as I learn new topics
-- Refactor and improve old code as I gain more experience
-- Practice writing better documentation and clean code
+Start the game by running:
+
+```bash
+python main.py
+```
+
+This will launch the Brain Blitz GUI, where you can select a category and answer trivia questions.
+
+## Notes
+
+- `stored_questions.json` contains the quiz questions, answer choices, and correct answers.
+- The helper script `create_questions.py` is intended to populate or update `stored_questions.json`, but it requires a working Selenium environment and the Edge WebDriver.
+- The current game flow selects a random question from the chosen category and removes it from that category for the current session.
+
+## Improvements
+
+Potential future enhancements:
+
+- Add score tracking and session summaries
+- Add a timed quiz mode
+- Improve question reloading so categories reset automatically after completion
+- Add more question categories and better error handling
+
+## License
+
+This project is provided as-is for personal or demonstration use.

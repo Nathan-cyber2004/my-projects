@@ -1,0 +1,1821 @@
+{
+    "Geography and Landmarks": [
+    {
+        "Q": "What is the capital city of France?",
+        "A": [
+            "Paris",
+            "London",
+            "Rome",
+            "Madrid"
+        ],
+        "Correct": "Paris"
+    },
+    {
+        "Q": "Which continent is home to the vast Sahara Desert?",
+        "A": [
+            "Africa",
+            "Asia",
+            "South America",
+            "Europe"
+        ],
+        "Correct": "Africa"
+    },
+    {
+        "Q": "What is the largest ocean on Earth?",
+        "A": [
+            "The Atlantic Ocean",
+            "The Indian Ocean",
+            "The Arctic Ocean",
+            "The Pacific Ocean"
+        ],
+        "Correct": "The Pacific Ocean"
+    },
+    {
+        "Q": "Which country is known as the Land of the Rising Sun?",
+        "A": [
+            "China",
+            "Japan",
+            "South Korea",
+            "Thailand"
+        ],
+        "Correct": "Japan"
+    },
+    {
+        "Q": "What is the tallest mountain in the world?",
+        "A": [
+            "Mount Kilimanjaro",
+            "Mount Everest",
+            "Mount Fuji",
+            "K2"
+        ],
+        "Correct": "Mount Everest"
+    },
+    {
+        "Q": "Which iconic landmark can be found in Agra, India?",
+        "A": [
+            "The Taj Mahal",
+            "The Great Wall of China",
+            "The Colosseum",
+            "The Eiffel Tower"
+        ],
+        "Correct": "The Taj Mahal"
+    },
+    {
+        "Q": "Which river is famously associated with the civilization of ancient Egypt?",
+        "A": [
+            "The Nile",
+            "The Amazon",
+            "The Yangtze",
+            "The Mississippi"
+        ],
+        "Correct": "The Nile"
+    },
+    {
+        "Q": "What is the capital city of Australia?",
+        "A": [
+            "Sydney",
+            "Melbourne",
+            "Brisbane",
+            "Canberra"
+        ],
+        "Correct": "Canberra"
+    },
+    {
+        "Q": "Which European city is renowned for its network of canals and gondolas?",
+        "A": [
+            "Rome",
+            "Paris",
+            "Venice",
+            "Amsterdam"
+        ],
+        "Correct": "Venice"
+    },
+    {
+        "Q": "What landmark stands as a symbol of freedom in the United States?",
+        "A": [
+            "Mount Rushmore",
+            "The White House",
+            "The Statue of Liberty",
+            "The Lincoln Memorial"
+        ],
+        "Correct": "The Statue of Liberty"
+    },
+    {
+        "Q": "Which mountain range is considered the natural divider between Europe and Asia?",
+        "A": [
+            "The Andes",
+            "The Himalayas",
+            "The Ural Mountains",
+            "The Alps"
+        ],
+        "Correct": "The Ural Mountains"
+    },
+    {
+        "Q": "What is the capital of Canada?",
+        "A": [
+            "Toronto",
+            "Vancouver",
+            "Ottawa",
+            "Montreal"
+        ],
+        "Correct": "Ottawa"
+    },
+    {
+        "Q": "Which desert is the largest hot desert in the world?",
+        "A": [
+            "The Sahara Desert",
+            "The Gobi Desert",
+            "The Kalahari Desert",
+            "The Atacama Desert"
+        ],
+        "Correct": "The Sahara Desert"
+    },
+    {
+        "Q": "What famous clock tower is a landmark in London?",
+        "A": [
+            "Big Ben",
+            "The Shard",
+            "The Tower of London",
+            "The London Eye"
+        ],
+        "Correct": "Big Ben"
+    },
+    {
+        "Q": "Which country is home to Istanbul, a city that uniquely spans two continents?",
+        "A": [
+            "Greece",
+            "Turkey",
+            "Egypt",
+            "Russia"
+        ],
+        "Correct": "Turkey"
+    },
+    {
+        "Q": "What is the largest country in the world by land area?",
+        "A": [
+            "Canada",
+            "United States",
+            "China",
+            "Russia"
+        ],
+        "Correct": "Russia"
+    },
+    {
+        "Q": "Which wrought-iron lattice tower is an iconic symbol of Paris?",
+        "A": [
+            "The Arc de Triomphe",
+            "The Louvre",
+            "The Eiffel Tower",
+            "Notre-Dame Cathedral"
+        ],
+        "Correct": "The Eiffel Tower"
+    },
+    {
+        "Q": "What is the name of the ancient amphitheater located in the heart of Rome?",
+        "A": [
+            "The Colosseum",
+            "The Roman Forum",
+            "The Pantheon",
+            "The Trevi Fountain"
+        ],
+        "Correct": "The Colosseum"
+    },
+    {
+        "Q": "Which river is considered the longest in South America?",
+        "A": [
+            "The Nile",
+            "The Mississippi",
+            "The Amazon River",
+            "The Yangtze"
+        ],
+        "Correct": "The Amazon River"
+    },
+    {
+        "Q": "What is the highest waterfall in the world, located in Venezuela?",
+        "A": [
+            "Niagara Falls",
+            "Angel Falls",
+            "Victoria Falls",
+            "Iguazu Falls"
+        ],
+        "Correct": "Angel Falls"
+    }
+],
+    "History and Heroes": [
+    {
+        "Q": "Who was the first President of the United States?",
+        "A": [
+            "Thomas Jefferson",
+            "George Washington",
+            "Abraham Lincoln",
+            "James Madison"
+        ],
+        "Correct": "George Washington"
+    },
+    {
+        "Q": "Which famous document, largely drafted by Thomas Jefferson, declared the American colonies' independence?",
+        "A": [
+            "The Bill of Rights",
+            "The Constitution",
+            "The Emancipation Proclamation",
+            "The Declaration of Independence"
+        ],
+        "Correct": "The Declaration of Independence"
+    },
+    {
+        "Q": "What major conflict was fought between the Northern and Southern states of the U.S.?",
+        "A": [
+            "The Revolutionary War",
+            "The Civil War",
+            "World War I",
+            "The War of 1812"
+        ],
+        "Correct": "The Civil War"
+    },
+    {
+        "Q": "Who is the civil rights leader famous for his 'I Have a Dream' speech?",
+        "A": [
+            "Malcolm X",
+            "Martin Luther King, Jr.",
+            "Rosa Parks",
+            "Frederick Douglass"
+        ],
+        "Correct": "Martin Luther King, Jr."
+    },
+    {
+        "Q": "Which ancient civilization built the pyramids of Giza?",
+        "A": [
+            "The Ancient Romans",
+            "The Ancient Greeks",
+            "The Ancient Egyptians",
+            "The Mesopotamians"
+        ],
+        "Correct": "The Ancient Egyptians"
+    },
+    {
+        "Q": "Who was the iconic queen of ancient Egypt known for her charm and political savvy?",
+        "A": [
+            "Nefertiti",
+            "Cleopatra",
+            "Hatshepsut",
+            "Ramses II"
+        ],
+        "Correct": "Cleopatra"
+    },
+    {
+        "Q": "Which great leader was a pivotal figure in ancient Rome and paved the way for the empire?",
+        "A": [
+            "Augustus Caesar",
+            "Julius Caesar",
+            "Cicero",
+            "Constantine"
+        ],
+        "Correct": "Julius Caesar"
+    },
+    {
+        "Q": "Who is often called the Father of the Constitution for his key role in framing the U.S. government?",
+        "A": [
+            "Alexander Hamilton",
+            "George Washington",
+            "James Madison",
+            "Benjamin Franklin"
+        ],
+        "Correct": "James Madison"
+    },
+    {
+        "Q": "Which ancient civilization built the Colosseum, an enduring symbol of Roman engineering?",
+        "A": [
+            "The Romans",
+            "The Greeks",
+            "The Egyptians",
+            "The Phoenicians"
+        ],
+        "Correct": "The Romans"
+    },
+    {
+        "Q": "Which explorer is credited with discovering America in 1492?",
+        "A": [
+            "Marco Polo",
+            "Vasco da Gama",
+            "Christopher Columbus",
+            "Ferdinand Magellan"
+        ],
+        "Correct": "Christopher Columbus"
+    },
+    {
+        "Q": "Who was the first person to walk on the Moon, famously proclaiming, 'That's one small step for man, one giant leap for mankind'?",
+        "A": [
+            "Yuri Gagarin",
+            "Neil Armstrong",
+            "Buzz Aldrin",
+            "Michael Collins"
+        ],
+        "Correct": "Neil Armstrong"
+    },
+    {
+        "Q": "What ill-fated ship sank on its maiden voyage in 1912, becoming one of history's most notorious maritime disasters?",
+        "A": [
+            "The Lusitania",
+            "The Titanic",
+            "The Bismarck",
+            "The Britannic"
+        ],
+        "Correct": "The Titanic"
+    },
+    {
+        "Q": "Which British monarch reigned during the expansive and transformative Victorian era?",
+        "A": [
+            "Queen Elizabeth I",
+            "Queen Victoria",
+            "King George III",
+            "Queen Anne"
+        ],
+        "Correct": "Queen Victoria"
+    },
+    {
+        "Q": "Who issued the Emancipation Proclamation during the American Civil War?",
+        "A": [
+            "Abraham Lincoln",
+            "Ulysses S. Grant",
+            "Andrew Johnson",
+            "Jefferson Davis"
+        ],
+        "Correct": "Abraham Lincoln"
+    },
+    {
+        "Q": "What wall became the global symbol of division during the Cold War in Europe?",
+        "A": [
+            "The Berlin Wall",
+            "The Great Wall of China",
+            "The Iron Curtain",
+            "The Wall of Jericho"
+        ],
+        "Correct": "The Berlin Wall"
+    },
+    {
+        "Q": "Who led the Soviet Union through the tumultuous years of World War II?",
+        "A": [
+            "Leon Trotsky",
+            "Joseph Stalin",
+            "Vladimir Lenin",
+            "Nikita Khrushchev"
+        ],
+        "Correct": "Joseph Stalin"
+    },
+    {
+        "Q": "Which ancient Roman city was famously buried by the eruption of Mount Vesuvius?",
+        "A": [
+            "Rome",
+            "Pompeii",
+            "Athens",
+            "Carthage"
+        ],
+        "Correct": "Pompeii"
+    },
+    {
+        "Q": "Who is the prolific inventor credited with creating the lightbulb and sparking a technological revolution?",
+        "A": [
+            "Nikola Tesla",
+            "Thomas Edison",
+            "Alexander Graham Bell",
+            "Henry Ford"
+        ],
+        "Correct": "Thomas Edison"
+    },
+    {
+        "Q": "Which leader championed nonviolent resistance and played a key role in India's struggle for independence?",
+        "A": [
+            "Jawaharlal Nehru",
+            "Indira Gandhi",
+            "Mahatma Gandhi",
+            "Subhas Chandra Bose"
+        ],
+        "Correct": "Mahatma Gandhi"
+    },
+    {
+        "Q": "Who was the formidable conqueror who founded the vast Mongol Empire?",
+        "A": [
+            "Kublai Khan",
+            "Genghis Khan",
+            "Attila the Hun",
+            "Alexander the Great"
+        ],
+        "Correct": "Genghis Khan"
+    }
+],
+   "Science and Inventions": [
+    {
+        "Q": "What force keeps us firmly planted on the ground?",
+        "A": [
+            "Friction",
+            "Magnetism",
+            "Gravity",
+            "Inertia"
+        ],
+        "Correct": "Gravity"
+    },
+    {
+        "Q": "Which planet is closest to the Sun?",
+        "A": [
+            "Venus",
+            "Earth",
+            "Mercury",
+            "Mars"
+        ],
+        "Correct": "Mercury"
+    },
+    {
+        "Q": "What process do plants use to turn sunlight into energy?",
+        "A": [
+            "Respiration",
+            "Photosynthesis",
+            "Evaporation",
+            "Fermentation"
+        ],
+        "Correct": "Photosynthesis"
+    },
+    {
+        "Q": "Who is credited with inventing the lightbulb, illuminating our nights?",
+        "A": [
+            "Nikola Tesla",
+            "Thomas Edison",
+            "Albert Einstein",
+            "Benjamin Franklin"
+        ],
+        "Correct": "Thomas Edison"
+    },
+    {
+        "Q": "What is the chemical formula for water?",
+        "A": [
+            "CO2",
+            "H2O",
+            "O2",
+            "NaCl"
+        ],
+        "Correct": "H2O"
+    },
+    {
+        "Q": "Which device is used to measure temperature?",
+        "A": [
+            "A thermometer",
+            "A barometer",
+            "A hygrometer",
+            "A voltmeter"
+        ],
+        "Correct": "A thermometer"
+    },
+    {
+        "Q": "What is known as the powerhouse of the cell?",
+        "A": [
+            "The nucleus",
+            "The mitochondria",
+            "The ribosomes",
+            "The chloroplasts"
+        ],
+        "Correct": "The mitochondria"
+    },
+    {
+        "Q": "Who formulated the laws of motion and universal gravitation?",
+        "A": [
+            "Albert Einstein",
+            "Isaac Newton",
+            "Galileo Galilei",
+            "Niels Bohr"
+        ],
+        "Correct": "Isaac Newton"
+    },
+    {
+        "Q": "Which invention by Alexander Graham Bell revolutionized long-distance communication?",
+        "A": [
+            "The radio",
+            "The telephone",
+            "The television",
+            "The telegraph"
+        ],
+        "Correct": "The telephone"
+    },
+    {
+        "Q": "What is the unit of electrical resistance called?",
+        "A": [
+            "The volt",
+            "The ampere",
+            "The watt",
+            "The ohm"
+        ],
+        "Correct": "The ohm"
+    },
+    {
+        "Q": "Which element is represented by the symbol O?",
+        "A": [
+            "Oxygen",
+            "Osmium",
+            "Ozone",
+            "Opium"
+        ],
+        "Correct": "Oxygen"
+    },
+    {
+        "Q": "What type of energy is stored in food, coal, and batteries?",
+        "A": [
+            "Thermal energy",
+            "Chemical energy",
+            "Kinetic energy",
+            "Nuclear energy"
+        ],
+        "Correct": "Chemical energy"
+    },
+    {
+        "Q": "What is the study of stars, planets, and other celestial bodies called?",
+        "A": [
+            "Physics",
+            "Chemistry",
+            "Astronomy",
+            "Geology"
+        ],
+        "Correct": "Astronomy"
+    },
+    {
+        "Q": "What invention allowed messages to be sent over long distances almost instantly before phones were a thing?",
+        "A": [
+            "The radio",
+            "The telephone",
+            "The telegraph",
+            "The typewriter"
+        ],
+        "Correct": "The telegraph"
+    },
+    {
+        "Q": "Which part of the electromagnetic spectrum can the human eye see?",
+        "A": [
+            "Infrared",
+            "Ultraviolet",
+            "Microwave",
+            "Visible light"
+        ],
+        "Correct": "Visible light"
+    },
+    {
+        "Q": "What gas do plants absorb from the atmosphere to perform photosynthesis?",
+        "A": [
+            "Oxygen",
+            "Nitrogen",
+            "Carbon dioxide",
+            "Hydrogen"
+        ],
+        "Correct": "Carbon dioxide"
+    },
+    {
+        "Q": "What invention, using steam power, kick-started the Industrial Revolution?",
+        "A": [
+            "The printing press",
+            "The steam engine",
+            "The airplane",
+            "The car"
+        ],
+        "Correct": "The steam engine"
+    },
+    {
+        "Q": "What term describes a substance that speeds up a chemical reaction without being consumed?",
+        "A": [
+            "A solvent",
+            "A catalyst",
+            "An enzyme",
+            "A reactant"
+        ],
+        "Correct": "A catalyst"
+    },
+    {
+        "Q": "Which ancient calculating tool is considered one of the first forms of a computer?",
+        "A": [
+            "The abacus",
+            "The astrolabe",
+            "The slide rule",
+            "The abacus calculator"
+        ],
+        "Correct": "The abacus"
+    },
+    {
+        "Q": "Who is known as the father of modern physics for his theory of relativity?",
+        "A": [
+            "Albert Einstein",
+            "Isaac Newton",
+            "Niels Bohr",
+            "Galileo Galilei"
+        ],
+        "Correct": "Albert Einstein"
+    }
+],
+
+    "Language and Literature": [
+    {
+        "Q": "What is a noun?",
+        "A": [
+            "A word that shows action",
+            "A word that describes a noun",
+            "A word that names a person, place, thing, or idea",
+            "A word that asks a question"
+        ],
+        "Correct": "A word that names a person, place, thing, or idea"
+    },
+    {
+        "Q": "What is a verb?",
+        "A": [
+            "A word that describes a noun",
+            "A word that shows action",
+            "A word that connects clauses",
+            "A word that expresses feeling"
+        ],
+        "Correct": "A word that shows action"
+    },
+    {
+        "Q": "What is an adjective?",
+        "A": [
+            "A word that shows action",
+            "A word that names a thing",
+            "A word that describes or gives more information about a noun",
+            "A word that asks a question"
+        ],
+        "Correct": "A word that describes or gives more information about a noun"
+    },
+    {
+        "Q": "Which punctuation mark shows possession, as in Sarah's book?",
+        "A": [
+            "The comma",
+            "The question mark",
+            "The apostrophe",
+            "The period"
+        ],
+        "Correct": "The apostrophe"
+    },
+    {
+        "Q": "What is a simile?",
+        "A": [
+            "A figure of speech that compares two things using like or as (e.g., as brave as a lion)",
+            "A type of metaphor",
+            "A play on words",
+            "A phrase that has an opposite meaning"
+        ],
+        "Correct": "A figure of speech that compares two things using like or as (e.g., as brave as a lion)"
+    },
+    {
+        "Q": "Who wrote the famous play Romeo and Juliet?",
+        "A": [
+            "William Shakespeare",
+            "Charles Dickens",
+            "Jane Austen",
+            "George Orwell"
+        ],
+        "Correct": "William Shakespeare"
+    },
+    {
+        "Q": "What is a synonym for happy?",
+        "A": [
+            "Sad",
+            "Joyful",
+            "Angry",
+            "Confused"
+        ],
+        "Correct": "Joyful"
+    },
+    {
+        "Q": "What is the plural form of child?",
+        "A": [
+            "Children",
+            "Childs",
+            "Childes",
+            "Childer"
+        ],
+        "Correct": "Children"
+    },
+    {
+        "Q": "Which punctuation mark is used at the end of a question?",
+        "A": [
+            "A question mark",
+            "An exclamation mark",
+            "A period",
+            "A comma"
+        ],
+        "Correct": "A question mark"
+    },
+    {
+        "Q": "What is a fable?",
+        "A": [
+            "A story that teaches a moral lesson, often with animals as characters",
+            "A type of poem",
+            "A funny story",
+            "A historical narrative"
+        ],
+        "Correct": "A story that teaches a moral lesson, often with animals as characters"
+    },
+    {
+        "Q": "What is onomatopoeia?",
+        "A": [
+            "Words that rhyme",
+            "Words that sound like the noise they describe (such as buzz or bang)",
+            "Words that are the same in different languages",
+            "Words that mean the opposite"
+        ],
+        "Correct": "Words that sound like the noise they describe (such as buzz or bang)"
+    },
+    {
+        "Q": "What do we call words that have opposite meanings?",
+        "A": [
+            "Synonyms",
+            "Antonyms",
+            "Homophones",
+            "Alliterations"
+        ],
+        "Correct": "Antonyms"
+    },
+    {
+        "Q": "What does the prefix un- generally mean when added to a word?",
+        "A": [
+            "It means happy",
+            "It means not or indicates the opposite",
+            "It means fast",
+            "It means under"
+        ],
+        "Correct": "It means not or indicates the opposite"
+    },
+    {
+        "Q": "What is alliteration?",
+        "A": [
+            "The repetition of the same vowel sounds",
+            "The repetition of the same consonant sounds at the beginning of words (e.g., Peter Piper picked a peck of pickled peppers)",
+            "The use of metaphors",
+            "The rhyming of words"
+        ],
+        "Correct": "The repetition of the same consonant sounds at the beginning of words (e.g., Peter Piper picked a peck of pickled peppers)"
+    },
+    {
+        "Q": "What term describes the main character in a story?",
+        "A": [
+            "The antagonist",
+            "The protagonist",
+            "The narrator",
+            "The sidekick"
+        ],
+        "Correct": "The protagonist"
+    },
+    {
+        "Q": "What is a homophone?",
+        "A": [
+            "A word that is spelled the same as another word",
+            "A word that sounds the same as another word but has a different meaning (and sometimes different spelling), like pair and pear",
+            "A word that has opposite meanings",
+            "A word that is always used as a verb"
+        ],
+        "Correct": "A word that sounds the same as another word but has a different meaning (and sometimes different spelling), like pair and pear"
+    },
+    {
+        "Q": "What literary genre features magical elements and imaginative worlds?",
+        "A": [
+            "Fantasy",
+            "Non-fiction",
+            "Mystery",
+            "Romance"
+        ],
+        "Correct": "Fantasy"
+    },
+    {
+        "Q": "Who is the famous author of the Harry Potter series?",
+        "A": [
+            "J.R.R. Tolkien",
+            "J.K. Rowling",
+            "C.S. Lewis",
+            "George R.R. Martin"
+        ],
+        "Correct": "J.K. Rowling"
+    },
+    {
+        "Q": "What is the plot of a story?",
+        "A": [
+            "The sequence of events that make up the story",
+            "The main character's description",
+            "The setting of the story",
+            "The moral lesson of the story"
+        ],
+        "Correct": "The sequence of events that make up the story"
+    },
+    {
+        "Q": "What is an idiom?",
+        "A": [
+            "A phrase with a meaning that isn't literal (for example, it's raining cats and dogs means it's raining very heavily)",
+            "A poetic expression",
+            "A type of metaphor",
+            "A phrase that always has the same meaning"
+        ],
+        "Correct": "A phrase with a meaning that isn't literal (for example, it's raining cats and dogs means it's raining very heavily)"
+    }
+],
+    "Pop Culture and Media": [
+    {
+        "Q": "What animated movie features a young lion cub who overcomes challenges to become king?",
+        "A": [
+            "The Lion King",
+            "Aladdin",
+            "Frozen",
+            "Mulan"
+        ],
+        "Correct": "The Lion King"
+    },
+    {
+        "Q": "Which film tells the story of a princess with magical, long hair who escapes a tower?",
+        "A": [
+            "Tangled",
+            "Beauty and the Beast",
+            "Sleeping Beauty",
+            "Cinderella"
+        ],
+        "Correct": "Tangled"
+    },
+    {
+        "Q": "In which movie does a friendly snowman named Olaf help bring warmth to a frozen kingdom?",
+        "A": [
+            "Frozen",
+            "Snow White",
+            "The Lion King",
+            "Beauty and the Beast"
+        ],
+        "Correct": "Frozen"
+    },
+    {
+        "Q": "Which superhero, known for his red-and-blue suit and spider-like abilities, swings through New York City?",
+        "A": [
+            "Spider-Man",
+            "Superman",
+            "Batman",
+            "Iron Man"
+        ],
+        "Correct": "Spider-Man"
+    },
+    {
+        "Q": "Who is the famous boy wizard attending a magical school in a best-selling book series?",
+        "A": [
+            "Harry Potter",
+            "Percy Jackson",
+            "Hermione Granger",
+            "Gandalf"
+        ],
+        "Correct": "Harry Potter"
+    },
+    {
+        "Q": "What film series features a team of superheroes like Iron Man, Captain America, and Thor saving the world?",
+        "A": [
+            "The Marvel Cinematic Universe (Avengers)",
+            "Justice League",
+            "X-Men",
+            "Fantastic Four"
+        ],
+        "Correct": "The Marvel Cinematic Universe (Avengers)"
+    },
+    {
+        "Q": "Which animated movie shows the heartwarming adventures of toys that come to life when no one is around?",
+        "A": [
+            "Toy Story",
+            "The Incredibles",
+            "Finding Nemo",
+            "Shrek"
+        ],
+        "Correct": "Toy Story"
+    },
+    {
+        "Q": "What long-running animated series features a yellow family with a donut-loving dad?",
+        "A": [
+            "The Simpsons",
+            "Family Guy",
+            "South Park",
+            "Futurama"
+        ],
+        "Correct": "The Simpsons"
+    },
+    {
+        "Q": "Which popular video game lets players build and explore vast blocky worlds?",
+        "A": [
+            "Minecraft",
+            "Fortnite",
+            "Call of Duty",
+            "The Legend of Zelda"
+        ],
+        "Correct": "Minecraft"
+    },
+    {
+        "Q": "What social media app is known for its short, creative videos and viral dance challenges?",
+        "A": [
+            "TikTok",
+            "Instagram",
+            "Facebook",
+            "Twitter"
+        ],
+        "Correct": "TikTok"
+    },
+    {
+        "Q": "Which online platform is a go-to destination for millions to watch and share videos?",
+        "A": [
+            "YouTube",
+            "Vimeo",
+            "Twitch",
+            "Dailymotion"
+        ],
+        "Correct": "YouTube"
+    },
+    {
+        "Q": "What streaming service has become synonymous with binge-watching hit TV shows and movies?",
+        "A": [
+            "Netflix",
+            "Amazon Prime Video",
+            "Hulu",
+            "Disney+"
+        ],
+        "Correct": "Netflix"
+    },
+    {
+        "Q": "Which superhero is known for his dark persona and fights crime in Gotham City?",
+        "A": [
+            "Batman",
+            "Superman",
+            "Iron Man",
+            "The Flash"
+        ],
+        "Correct": "Batman"
+    },
+    {
+        "Q": "Who is widely known as the King of Pop for his groundbreaking music and dance moves?",
+        "A": [
+            "Michael Jackson",
+            "Elvis Presley",
+            "Prince",
+            "Justin Timberlake"
+        ],
+        "Correct": "Michael Jackson"
+    },
+    {
+        "Q": "What messaging app is famous for its disappearing photos and playful filters?",
+        "A": [
+            "Snapchat",
+            "WhatsApp",
+            "Facebook Messenger",
+            "Instagram"
+        ],
+        "Correct": "Snapchat"
+    },
+    {
+        "Q": "Which film features a family of superheroes trying to balance everyday life with saving the world?",
+        "A": [
+            "The Incredibles",
+            "The Avengers",
+            "Fantastic Four",
+            "Justice League"
+        ],
+        "Correct": "The Incredibles"
+    },
+    {
+        "Q": "What animated film features a toy space ranger who famously shouts, 'To infinity and beyond!'?",
+        "A": [
+            "Toy Story (Buzz Lightyear)",
+            "Toy Story 2",
+            "Cars",
+            "Finding Nemo"
+        ],
+        "Correct": "Toy Story (Buzz Lightyear)"
+    },
+    {
+        "Q": "Which music genre did Taylor Swift originally rise to fame in before transitioning to pop?",
+        "A": [
+            "Country",
+            "Pop",
+            "Rock",
+            "Hip-Hop"
+        ],
+        "Correct": "Country"
+    },
+    {
+        "Q": "What is the title of the hit series where contestants test their general knowledge in a fun, quiz-show format?",
+        "A": [
+            "Jeopardy! (or you could say Are You Smarter Than a 5th Grader?)",
+            "Who Wants to Be a Millionaire?",
+            "Wheel of Fortune",
+            "The Price is Right"
+        ],
+        "Correct": "Jeopardy! (or you could say Are You Smarter Than a 5th Grader?)"
+    },
+    {
+        "Q": "Which animated series follows the underwater adventures of a square yellow sponge and his quirky friends?",
+        "A": [
+            "SpongeBob SquarePants",
+            "The Fairly OddParents",
+            "Rugrats",
+            "Adventure Time"
+        ],
+        "Correct": "SpongeBob SquarePants"
+    }
+],
+   "Nature and Wildlife": [
+    {
+        "Q": "What is the largest land animal on Earth?",
+        "A": [
+            "The African elephant",
+            "The white rhino",
+            "The giraffe",
+            "The hippopotamus"
+        ],
+        "Correct": "The African elephant"
+    },
+    {
+        "Q": "Which animal holds the title of being the fastest land mammal?",
+        "A": [
+            "The cheetah",
+            "The lion",
+            "The antelope",
+            "The kangaroo"
+        ],
+        "Correct": "The cheetah"
+    },
+    {
+        "Q": "What marine creature is the largest animal on the planet?",
+        "A": [
+            "The blue whale",
+            "The orca",
+            "The great white shark",
+            "The manta ray"
+        ],
+        "Correct": "The blue whale"
+    },
+    {
+        "Q": "What do you call a group of lions?",
+        "A": [
+            "A pride",
+            "A pack",
+            "A herd",
+            "A troop"
+        ],
+        "Correct": "A pride"
+    },
+    {
+        "Q": "Which reptile is famous for changing its skin color to blend into its surroundings?",
+        "A": [
+            "The chameleon",
+            "The iguana",
+            "The crocodile",
+            "The gecko"
+        ],
+        "Correct": "The chameleon"
+    },
+    {
+        "Q": "What is the tallest tree species in the world?",
+        "A": [
+            "The coast redwood",
+            "The sequoia",
+            "The oak tree",
+            "The eucalyptus"
+        ],
+        "Correct": "The coast redwood"
+    },
+    {
+        "Q": "Which bear is known for its white fur and affinity for icy habitats?",
+        "A": [
+            "The polar bear",
+            "The grizzly bear",
+            "The panda bear",
+            "The black bear"
+        ],
+        "Correct": "The polar bear"
+    },
+    {
+        "Q": "What large mammal is recognized by its distinctive black and white markings and a love for bamboo?",
+        "A": [
+            "The giant panda",
+            "The koala",
+            "The sloth",
+            "The orangutan"
+        ],
+        "Correct": "The giant panda"
+    },
+    {
+        "Q": "Which bird is known for its vibrant tail feathers and extravagant courtship display?",
+        "A": [
+            "The peacock",
+            "The flamingo",
+            "The ostrich",
+            "The parrot"
+        ],
+        "Correct": "The peacock"
+    },
+    {
+        "Q": "What is the fastest bird in the world when diving?",
+        "A": [
+            "The peregrine falcon",
+            "The eagle",
+            "The albatross",
+            "The condor"
+        ],
+        "Correct": "The peregrine falcon"
+    },
+    {
+        "Q": "Which insect is renowned for building complex colonies and being a model of teamwork?",
+        "A": [
+            "The ant",
+            "The bee",
+            "The butterfly",
+            "The beetle"
+        ],
+        "Correct": "The ant"
+    },
+    {
+        "Q": "What is the term for a baby kangaroo?",
+        "A": [
+            "A joey",
+            "A calf",
+            "A cub",
+            "A pup"
+        ],
+        "Correct": "A joey"
+    },
+    {
+        "Q": "Which brightly colored amphibian is known for its toxic skin and is often seen in rainforests?",
+        "A": [
+            "The poison dart frog",
+            "The tree frog",
+            "The bullfrog",
+            "The newt"
+        ],
+        "Correct": "The poison dart frog"
+    },
+    {
+        "Q": "What is the name of the largest species of shark?",
+        "A": [
+            "The whale shark",
+            "The great white shark",
+            "The hammerhead shark",
+            "The tiger shark"
+        ],
+        "Correct": "The whale shark"
+    },
+    {
+        "Q": "Which animal, famous for its long neck and distinctive spotted coat, roams the African savanna?",
+        "A": [
+            "The giraffe",
+            "The zebra",
+            "The elephant",
+            "The antelope"
+        ],
+        "Correct": "The giraffe"
+    },
+    {
+        "Q": "What type of animal is a Komodo dragon?",
+        "A": [
+            "A large lizard",
+            "A crocodile",
+            "A snake",
+            "A bird"
+        ],
+        "Correct": "A large lizard"
+    },
+    {
+        "Q": "Which marine mammal is celebrated for its intelligence, playful nature, and acrobatic leaps?",
+        "A": [
+            "The dolphin",
+            "The whale",
+            "The seal",
+            "The sea lion"
+        ],
+        "Correct": "The dolphin"
+    },
+    {
+        "Q": "What nocturnal bird is known for its silent flight and remarkable ability to rotate its head?",
+        "A": [
+            "The owl",
+            "The hawk",
+            "The raven",
+            "The crow"
+        ],
+        "Correct": "The owl"
+    },
+    {
+        "Q": "What term describes animals that primarily consume plants?",
+        "A": [
+            "Herbivores",
+            "Carnivores",
+            "Omnivores",
+            "Insectivores"
+        ],
+        "Correct": "Herbivores"
+    },
+    {
+        "Q": "Which big cat, often dubbed the King of the Jungle, is known for its impressive roar?",
+        "A": [
+            "The lion",
+            "The tiger",
+            "The leopard",
+            "The jaguar"
+        ],
+        "Correct": "The lion"
+    }
+],
+    "Space and Astronomy": [
+    {
+        "Q": "What is the closest planet to the Sun?",
+        "A": [
+            "Mercury",
+            "Venus",
+            "Earth",
+            "Mars"
+        ],
+        "Correct": "Mercury"
+    },
+    {
+        "Q": "Which planet is famously known as the Red Planet?",
+        "A": [
+            "Mars",
+            "Venus",
+            "Jupiter",
+            "Saturn"
+        ],
+        "Correct": "Mars"
+    },
+    {
+        "Q": "What is the name of the galaxy that houses our solar system?",
+        "A": [
+            "The Milky Way",
+            "Andromeda",
+            "The Whirlpool Galaxy",
+            "The Triangulum Galaxy"
+        ],
+        "Correct": "The Milky Way"
+    },
+    {
+        "Q": "What celestial object is at the center of our solar system?",
+        "A": [
+            "The Sun",
+            "The Earth",
+            "The Moon",
+            "Jupiter"
+        ],
+        "Correct": "The Sun"
+    },
+    {
+        "Q": "What term describes the rocky bodies that orbit the Sun, often found in the asteroid belt?",
+        "A": [
+            "Asteroids",
+            "Comets",
+            "Meteoroids",
+            "Moons"
+        ],
+        "Correct": "Asteroids"
+    },
+    {
+        "Q": "Who was the first person to walk on the Moon?",
+        "A": [
+            "Neil Armstrong",
+            "Buzz Aldrin",
+            "Yuri Gagarin",
+            "Alan Shepard"
+        ],
+        "Correct": "Neil Armstrong"
+    },
+    {
+        "Q": "Which planet is known for its iconic, brilliant ring system?",
+        "A": [
+            "Saturn",
+            "Jupiter",
+            "Uranus",
+            "Neptune"
+        ],
+        "Correct": "Saturn"
+    },
+    {
+        "Q": "What do we call a massive system of stars, dust, and gas held together by gravity?",
+        "A": [
+            "A galaxy",
+            "A nebula",
+            "A solar system",
+            "A constellation"
+        ],
+        "Correct": "A galaxy"
+    },
+    {
+        "Q": "What phenomenon occurs when a star explodes and dramatically increases in brightness?",
+        "A": [
+            "A supernova",
+            "A black hole",
+            "A solar flare",
+            "A nova"
+        ],
+        "Correct": "A supernova"
+    },
+    {
+        "Q": "Which Mars rover, launched by NASA, is currently exploring the Red Planet?",
+        "A": [
+            "Perseverance",
+            "Curiosity",
+            "Opportunity",
+            "Spirit"
+        ],
+        "Correct": "Perseverance"
+    },
+    {
+        "Q": "Which giant planet is home to the Great Red Spot, a massive, long-lasting storm?",
+        "A": [
+            "Jupiter",
+            "Saturn",
+            "Uranus",
+            "Neptune"
+        ],
+        "Correct": "Jupiter"
+    },
+    {
+        "Q": "What is the term for the boundary around a black hole beyond which nothing can escape?",
+        "A": [
+            "The event horizon",
+            "The singularity",
+            "The accretion disk",
+            "The photon sphere"
+        ],
+        "Correct": "The event horizon"
+    },
+    {
+        "Q": "Which planet's extreme axial tilt causes unusual seasonal variations?",
+        "A": [
+            "Uranus",
+            "Neptune",
+            "Venus",
+            "Mars"
+        ],
+        "Correct": "Uranus"
+    },
+    {
+        "Q": "What is the term for a celestial body that orbits a planet?",
+        "A": [
+            "A natural satellite (or simply a moon)",
+            "An asteroid",
+            "A comet",
+            "A dwarf planet"
+        ],
+        "Correct": "A natural satellite (or simply a moon)"
+    },
+    {
+        "Q": "What spacecraft, launched in 1977, holds the record for being the farthest human-made object from Earth?",
+        "A": [
+            "Voyager 1",
+            "Parker Solar Probe",
+            "Hubble Space Telescope",
+            "New Horizons"
+        ],
+        "Correct": "Voyager 1"
+    },
+    {
+        "Q": "Which dwarf planet, once considered the ninth planet, resides in the Kuiper Belt?",
+        "A": [
+            "Pluto",
+            "Ceres",
+            "Haumea",
+            "Eris"
+        ],
+        "Correct": "Pluto"
+    },
+    {
+        "Q": "What explosive event marks the dramatic end of a massive star's life cycle?",
+        "A": [
+            "A supernova",
+            "A black hole",
+            "A neutron star",
+            "A gamma-ray burst"
+        ],
+        "Correct": "A supernova"
+    },
+    {
+        "Q": "What is the name of NASA's space telescope that has captured breathtaking images of deep space since 1990?",
+        "A": [
+            "The Hubble Space Telescope",
+            "The James Webb Space Telescope",
+            "The Spitzer Space Telescope",
+            "The Chandra X-ray Observatory"
+        ],
+        "Correct": "The Hubble Space Telescope"
+    },
+    {
+        "Q": "According to current scientific theories, what event marks the beginning of the universe?",
+        "A": [
+            "The Big Bang",
+            "The Big Crunch",
+            "The formation of the first star",
+            "The creation of the Milky Way"
+        ],
+        "Correct": "The Big Bang"
+    },
+    {
+        "Q": "What is the term for the small, icy bodies that develop glowing tails when they enter the inner solar system?",
+        "A": [
+            "Comets",
+            "Asteroids",
+            "Meteoroids",
+            "Dwarf planets"
+        ],
+        "Correct": "Comets"
+    }
+],
+    "Riddles and Logic Puzzles": [
+    {
+        "Q": "I am tall when I am young, and short when I am old. What am I?",
+        "A": [
+            "A candle",
+            "A pencil",
+            "A tree",
+            "A person"
+        ],
+        "Correct": "A candle"
+    },
+    {
+        "Q": "What has keys but can't open locks?",
+        "A": [
+            "A piano",
+            "A keyboard",
+            "A car",
+            "A diary"
+        ],
+        "Correct": "A piano"
+    },
+    {
+        "Q": "I speak without a mouth and hear without ears. I have nobody, but I come alive with wind. What am I?",
+        "A": [
+            "An echo",
+            "A shadow",
+            "A cloud",
+            "A ghost"
+        ],
+        "Correct": "An echo"
+    },
+    {
+        "Q": "What begins with T, ends with T, and has T in it?",
+        "A": [
+            "A teapot",
+            "A table",
+            "A ticket",
+            "A truck"
+        ],
+        "Correct": "A teapot"
+    },
+    {
+        "Q": "What can travel around the world while staying in a corner?",
+        "A": [
+            "A stamp",
+            "A postcard",
+            "A globe",
+            "A compass"
+        ],
+        "Correct": "A stamp"
+    },
+    {
+        "Q": "What gets wetter the more it dries?",
+        "A": [
+            "A towel",
+            "A sponge",
+            "A cloth",
+            "A raincoat"
+        ],
+        "Correct": "A towel"
+    },
+    {
+        "Q": "I'm full of holes but I can still hold water. What am I?",
+        "A": [
+            "A sponge",
+            "A bucket",
+            "A net",
+            "A bottle"
+        ],
+        "Correct": "A sponge"
+    },
+    {
+        "Q": "What is so fragile that just saying its name can break it?",
+        "A": [
+            "Silence",
+            "Glass",
+            "Trust",
+            "Ice"
+        ],
+        "Correct": "Silence"
+    },
+    {
+        "Q": "What comes once in a minute, twice in a moment, but never in a thousand years?",
+        "A": [
+            "The letter M",
+            "The sun",
+            "The letter E",
+            "A second"
+        ],
+        "Correct": "The letter M"
+    },
+    {
+        "Q": "I have branches, but no fruit, trunk, or leaves. What am I?",
+        "A": [
+            "A bank",
+            "A library",
+            "A tree",
+            "A business"
+        ],
+        "Correct": "A bank"
+    },
+    {
+        "Q": "If you have me, you want to share me. If you share me, you don't have me. What am I?",
+        "A": [
+            "A secret",
+            "A gift",
+            "A promise",
+            "A thought"
+        ],
+        "Correct": "A secret"
+    },
+    {
+        "Q": "What is always coming but never arrives?",
+        "A": [
+            "Tomorrow",
+            "The weekend",
+            "Christmas",
+            "A bus"
+        ],
+        "Correct": "Tomorrow"
+    },
+    {
+        "Q": "What has a head, and a tail, is brown, and has no legs?",
+        "A": [
+            "A penny",
+            "A snake",
+            "A coin",
+            "A match"
+        ],
+        "Correct": "A penny"
+    },
+    {
+        "Q": "What is always in front of you but can't be seen?",
+        "A": [
+            "The future",
+            "The past",
+            "The air",
+            "A mirror"
+        ],
+        "Correct": "The future"
+    },
+    {
+        "Q": "What can be broken, but is never held?",
+        "A": [
+            "A promise",
+            "A heart",
+            "A law",
+            "A piece of glass"
+        ],
+        "Correct": "A promise"
+    },
+    {
+        "Q": "I have cities, but no houses; mountains, but no trees; and water, but no fish. What am I?",
+        "A": [
+            "A map",
+            "A globe",
+            "A painting",
+            "A book"
+        ],
+        "Correct": "A map"
+    },
+    {
+        "Q": "What can fill a room but take up no space?",
+        "A": [
+            "Light",
+            "Air",
+            "Water",
+            "Sound"
+        ],
+        "Correct": "Light"
+    },
+    {
+        "Q": "If you drop me, I'm sure to crack; but if you smile at me, I'll always smile back. What am I?",
+        "A": [
+            "A mirror",
+            "A glass",
+            "A picture",
+            "A window"
+        ],
+        "Correct": "A mirror"
+    },
+    {
+        "Q": "I am not alive, but I grow; I don't have lungs, but I need air; I don't have a mouth, but water kills me. What am I?",
+        "A": [
+            "Fire",
+            "A plant",
+            "A cloud",
+            "A virus"
+        ],
+        "Correct": "Fire"
+    },
+    {
+        "Q": "What has one eye but can't see?",
+        "A": [
+            "A needle",
+            "A storm",
+            "A cyclone",
+            "A potato"
+        ],
+        "Correct": "A needle"
+    }
+],
+    "Random Fun Facts": [
+    {
+        "Q": "What is the only mammal capable of true flight?",
+        "A": [
+            "A bat",
+            "A bird",
+            "A flying squirrel",
+            "A bee"
+        ],
+        "Correct": "A bat"
+    },
+    {
+        "Q": "Which fruit was once so rare in Europe that it was rented out as a centerpiece at lavish parties?",
+        "A": [
+            "The pineapple",
+            "The apple",
+            "The grape",
+            "The watermelon"
+        ],
+        "Correct": "The pineapple"
+    },
+    {
+        "Q": "Which planet is often called the Morning Star because it shines brightly at dawn?",
+        "A": [
+            "Venus",
+            "Mars",
+            "Jupiter",
+            "Mercury"
+        ],
+        "Correct": "Venus"
+    },
+    {
+        "Q": "What is the only continent that is also considered a country?",
+        "A": [
+            "Australia",
+            "Europe",
+            "Africa",
+            "Asia"
+        ],
+        "Correct": "Australia"
+    },
+    {
+        "Q": "What is the hardest natural substance found on Earth?",
+        "A": [
+            "Diamond",
+            "Gold",
+            "Iron",
+            "Platinum"
+        ],
+        "Correct": "Diamond"
+    },
+    {
+        "Q": "Which animal's fingerprints are nearly indistinguishable from those of humans?",
+        "A": [
+            "The koala",
+            "The chimpanzee",
+            "The orangutan",
+            "The sloth"
+        ],
+        "Correct": "The koala"
+    },
+    {
+        "Q": "What food is famous for never spoiling, even after thousands of years?",
+        "A": [
+            "Honey",
+            "Cheese",
+            "Bread",
+            "Rice"
+        ],
+        "Correct": "Honey"
+    },
+    {
+        "Q": "Which insect can lift objects to 50 times its body weight?",
+        "A": [
+            "An ant",
+            "A beetle",
+            "A spider",
+            "A fly"
+        ],
+        "Correct": "An ant"
+    },
+    {
+        "Q": "What is the fastest-growing plant in the world?",
+        "A": [
+            "Bamboo",
+            "Oak tree",
+            "Cactus",
+            "Grass"
+        ],
+        "Correct": "Bamboo"
+    },
+    {
+        "Q": "Which language boasts the most native speakers worldwide?",
+        "A": [
+            "Mandarin Chinese",
+            "Spanish",
+            "English",
+            "Hindi"
+        ],
+        "Correct": "Mandarin Chinese"
+    },
+    {
+        "Q": "What natural disaster is measured on the Richter scale?",
+        "A": [
+            "An earthquake",
+            "A tornado",
+            "A hurricane",
+            "A tsunami"
+        ],
+        "Correct": "An earthquake"
+    },
+    {
+        "Q": "Which metal remains liquid at room temperature?",
+        "A": [
+            "Mercury",
+            "Lead",
+            "Iron",
+            "Aluminum"
+        ],
+        "Correct": "Mercury"
+    },
+    {
+        "Q": "What is the process called in which a caterpillar transforms into a butterfly?",
+        "A": [
+            "Metamorphosis",
+            "Evolution",
+            "Mutation",
+            "Incubation"
+        ],
+        "Correct": "Metamorphosis"
+    },
+    {
+        "Q": "Which desert is recognized as the largest hot desert in the world?",
+        "A": [
+            "The Sahara Desert",
+            "The Gobi Desert",
+            "The Kalahari Desert",
+            "The Atacama Desert"
+        ],
+        "Correct": "The Sahara Desert"
+    },
+    {
+        "Q": "What is the smallest country in the world by land area?",
+        "A": [
+            "Vatican City",
+            "Monaco",
+            "Nauru",
+            "San Marino"
+        ],
+        "Correct": "Vatican City"
+    },
+    {
+        "Q": "Which planet in our solar system has the most moons?",
+        "A": [
+            "Jupiter",
+            "Saturn",
+            "Mars",
+            "Uranus"
+        ],
+        "Correct": "Jupiter"
+    },
+    {
+        "Q": "What is the most abundant element in the universe?",
+        "A": [
+            "Hydrogen",
+            "Oxygen",
+            "Carbon",
+            "Helium"
+        ],
+        "Correct": "Hydrogen"
+    },
+    {
+        "Q": "Which gas makes up about 78% of the Earth's atmosphere?",
+        "A": [
+            "Nitrogen",
+            "Oxygen",
+            "Carbon dioxide",
+            "Argon"
+        ],
+        "Correct": "Nitrogen"
+    },
+    {
+        "Q": "What invention, introduced in the 1800s, allowed for almost instant long-distance communication?",
+        "A": [
+            "The telegraph",
+            "The telephone",
+            "The radio",
+            "The television"
+        ],
+        "Correct": "The telegraph"
+    },
+    {
+        "Q": "What popular board game, first marketed in 1935, was originally designed as a tool to teach real estate concepts?",
+        "A": [
+            "Monopoly",
+            "Scrabble",
+            "Clue",
+            "Life"
+        ],
+        "Correct": "Monopoly"
+    }
+  ]
+}

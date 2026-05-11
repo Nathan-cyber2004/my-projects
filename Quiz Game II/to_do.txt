@@ -1,0 +1,37 @@
+To Do List
+
+Retrieve Questions from a Specific Website
+Store questions in a JSON or text file.
+Implement scoring, randomization, and genre(difficulty) levels.
+Extra: Add a leaderboard that saves high scores.
+Skills: File handling, game logic, user input
+
+create_questions.py -> Selenium bot to retrieve questions from a website -> DONE
+stored_questions.json -> JSON file containing all the questions stored from get_questions.py -> DONE
+leaderboard.json -> JSON file containing the highest scores
+ui.py -> Contains all the ui elements created with the tkinter library
+main.py -> Contains the if __name__ == "__main__" to run code without accidents and imports ui file
+
+Desired Genres:
+- Geography and Landmarks
+- History and Heroes
+- Science and Inventions
+- Language and Literature
+- Pop Culture and Media
+- Nature and Wildlife
+- Space and Astronomy
+- Riddles and Logic Puzzles
+- Random Fun Facts and Trivia
+
+Desired JSON Format for Questions:
+
+{
+  "genre": [
+    {
+      "question": "answer"
+    },
+    {
+      "question": "answer"
+    }
+  ]
+}
