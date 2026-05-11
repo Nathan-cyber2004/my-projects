@@ -1,4 +1,4 @@
-Keyboard Warrior Game made in Gamemaker
+# Keyboard Warrior Game made in Gamemaker
 
 ## How to Play
 Watch out for any incoming enemies
